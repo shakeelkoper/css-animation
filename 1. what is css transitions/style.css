@@ -1,0 +1,13 @@
+button {
+	background-color: #E27D60;
+	color: #fff;
+	font-size: 1em;
+	height: 70px;
+	transition-duration: 2s;  /*2000ms*/
+	transition-property: background-color;
+	width: 200px;
+}
+
+button:hover {
+	background-color: #85CDCA;
+}
